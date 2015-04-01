@@ -36,7 +36,7 @@ public class Genetic {
             Text finalresult;
 
             // Read input
-//            READ OUTPUT to string Hadi
+//            READ OUTPUT to string Hadi kk
             if(tokenizer.hasMoreTokens() == false) return;
             String temp = tokenizer.nextToken();
 
